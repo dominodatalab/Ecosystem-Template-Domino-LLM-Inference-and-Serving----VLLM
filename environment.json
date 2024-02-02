@@ -1,0 +1,6 @@
+{
+  "title": "Ecosystem Template Domino LLM Inference and Serving -- VLLM",
+  "id": "Ecosystem Template Domino LLM Inference and Serving -- VLLM",
+  "environmentBaseImage": "quay.io/domino/compute-environment-images:ubuntu20-py3.9-domino5.9-minimal",
+  "description": "This environment is suitable for LLM inference and serving use cases. \nctranslate2==3.17.1\nvllm==0.1.3"
+}
